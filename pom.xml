@@ -7,7 +7,11 @@
     <groupId>com.perseacado.boot</groupId>
     <artifactId>feedback-ui</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1</version>
+
+    <name>feedback-ui</name>
+    <description>A Spring Boot module that adds feedback functionality to a web user-interface</description>
+    <url>https://github.com/perseacado/feedback-ui</url>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -44,7 +48,7 @@
             <dependency>
                 <groupId>com.perseacado.boot</groupId>
                 <artifactId>feedback-ui-core</artifactId>
-                <version>1.0-SNAPSHOT</version>
+                <version>0.0.1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.httpcomponents</groupId>
@@ -81,5 +85,20 @@
             </plugin>
         </plugins>
     </build>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>perseacado</name>
+            <email>perseacado@gmail.com</email>
+        </developer>
+    </developers>
 
 </project>
