@@ -7,7 +7,7 @@
     <groupId>com.perseacado.boot</groupId>
     <artifactId>feedback-ui</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <name>feedback-ui</name>
     <description>A Spring Boot module that adds feedback functionality to a web user-interface</description>
@@ -48,7 +48,7 @@
             <dependency>
                 <groupId>com.perseacado.boot</groupId>
                 <artifactId>feedback-ui-core</artifactId>
-                <version>0.0.1</version>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.httpcomponents</groupId>
