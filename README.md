@@ -43,9 +43,9 @@ This project uses Spring's auto-configuration functionality, thus one has to onl
 # you can disable feedback-ui if you want
 # feedback-ui.disabled=false
 # your Slack API token. please refer to https://api.slack.com/ for more information
-feedback-ui.slack.token=xoxp-15452468914-15452557922-26584703216-d1ca086864
+feedback-ui.slack.token=xoxp-12345678-12345678-12345678-abcdefghijkl
 # the Slack channel to use for the feedback messages
 feedback-ui.slack.channel=#feedback
 # the Slack username to use for the feedback messages
-feedback-ui.slack.username=varias-survey-feedback
+feedback-ui.slack.username=my-app-feedback
 ```
