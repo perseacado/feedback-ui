@@ -1,8 +1,8 @@
-package com.perseacado.boot.feedbackui.slack
+package com.github.perseacado.feedbackui.slack
 
-import com.perseacado.boot.feedbackui.slack.client.SlackClientFactory
-import com.perseacado.feedbackui.core.FeedbackMessage
-import com.perseacado.feedbackui.core.FeedbackService
+import com.github.perseacado.feedbackui.core.FeedbackMessage
+import com.github.perseacado.feedbackui.core.FeedbackService
+import com.github.perseacado.feedbackui.slack.client.SlackClientFactory
 import org.apache.commons.codec.binary.Base64
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service

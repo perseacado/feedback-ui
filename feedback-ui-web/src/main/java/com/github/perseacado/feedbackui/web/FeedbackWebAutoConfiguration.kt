@@ -1,4 +1,4 @@
-package com.perseacado.boot.feedbackui.slack
+package com.github.perseacado.feedbackui.web
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty
 import org.springframework.boot.autoconfigure.condition.ConditionalOnWebApplication
@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration
 @Configuration
 @ConditionalOnWebApplication
 @ConditionalOnProperty(name = arrayOf("feedback.disabled"), havingValue = "false", matchIfMissing = true)
-@EnableConfigurationProperties(SlackConfigurationProperties::class)
-@ComponentScan(basePackageClasses = arrayOf(SlackAutoConfiguration::class))
-open class SlackAutoConfiguration {
+@EnableConfigurationProperties(FeedbackWebConfigurationProperties::class)
+@ComponentScan(basePackageClasses = arrayOf(FeedbackWebAutoConfiguration::class))
+open class FeedbackWebAutoConfiguration {
 }

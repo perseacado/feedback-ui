@@ -1,4 +1,4 @@
-package com.perseacado.boot.feedbackui.slack.client
+package com.github.perseacado.feedbackui.slack.client
 
 import org.apache.http.HttpEntity
 import org.apache.http.client.methods.HttpPost

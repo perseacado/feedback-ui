@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/feedback-ui-slack/feeback-ui-slack.iml" filepath="$PROJECT_DIR$/feedback-ui-slack/feeback-ui-slack.iml" />
       <module fileurl="file://$PROJECT_DIR$/feedback-ui.iml" filepath="$PROJECT_DIR$/feedback-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/feedback-ui-core/feedback-ui-core.iml" filepath="$PROJECT_DIR$/feedback-ui-core/feedback-ui-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/feedback-ui-slack/feeback-ui-slack.iml" filepath="$PROJECT_DIR$/feedback-ui-slack/feeback-ui-slack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feedback-ui-slack/feedback-ui-slack.iml" filepath="$PROJECT_DIR$/feedback-ui-slack/feedback-ui-slack.iml" />
       <module fileurl="file://$PROJECT_DIR$/feedback-ui-web/feedback-ui-starter.iml" filepath="$PROJECT_DIR$/feedback-ui-web/feedback-ui-starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/feedback-ui-web/feedback-ui-web.iml" filepath="$PROJECT_DIR$/feedback-ui-web/feedback-ui-web.iml" />
     </modules>

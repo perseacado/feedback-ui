@@ -1,4 +1,4 @@
-package com.perseacado.boot.feedbackui.slack
+package com.github.perseacado.feedbackui.slack
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 

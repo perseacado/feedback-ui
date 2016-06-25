@@ -1,4 +1,4 @@
-package com.perseacado.boot.feedbackui.slack.client
+package com.github.perseacado.feedbackui.slack.client
 
 /**
  * @author Marco Eigletsberger, 24.06.16.

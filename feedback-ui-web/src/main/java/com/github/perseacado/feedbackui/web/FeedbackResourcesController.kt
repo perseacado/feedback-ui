@@ -1,4 +1,4 @@
-package com.perseacado.boot.feedbackui.web
+package com.github.perseacado.feedbackui.web
 
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.RequestMapping

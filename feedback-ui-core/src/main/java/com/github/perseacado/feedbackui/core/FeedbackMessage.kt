@@ -1,4 +1,4 @@
-package com.perseacado.feedbackui.core
+package com.github.perseacado.feedbackui.core
 
 import com.fasterxml.jackson.annotation.JsonCreator
 import com.fasterxml.jackson.annotation.JsonProperty

@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.perseacado.boot.feedbackui.web.FeedbackWebAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.perseacado.feedbackui.web.FeedbackWebAutoConfiguration

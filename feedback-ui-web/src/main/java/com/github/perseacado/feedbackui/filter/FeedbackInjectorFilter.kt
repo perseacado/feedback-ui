@@ -1,4 +1,4 @@
-package com.perseacado.boot.feedbackui.filter
+package com.github.perseacado.feedbackui.filter
 
 import org.springframework.stereotype.Component
 import org.springframework.web.filter.OncePerRequestFilter

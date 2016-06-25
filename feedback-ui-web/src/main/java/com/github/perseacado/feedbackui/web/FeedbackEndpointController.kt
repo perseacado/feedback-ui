@@ -1,7 +1,7 @@
-package com.perseacado.boot.feedbackui.web
+package com.github.perseacado.feedbackui.web
 
-import com.perseacado.feedbackui.core.FeedbackMessage
-import com.perseacado.feedbackui.core.FeedbackService
+import com.github.perseacado.feedbackui.core.FeedbackMessage
+import com.github.perseacado.feedbackui.core.FeedbackService
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RequestMapping

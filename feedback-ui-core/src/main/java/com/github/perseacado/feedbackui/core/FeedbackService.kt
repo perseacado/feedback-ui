@@ -1,4 +1,4 @@
-package com.perseacado.feedbackui.core
+package com.github.perseacado.feedbackui.core
 
 /**
  * @author Marco Eigletsberger, 24.06.16.
