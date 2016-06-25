@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/perseacado/feedback-ui.svg?branch=master)](https://travis-ci.org/perseacado/feedback-ui)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.perseacado.feedback-ui/feedback-ui/badge.svg?style=flat)](http://mvnrepository.com/artifact/com.github.perseacado.feedback-ui/feedback-ui)
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # feedback-ui
@@ -49,3 +50,7 @@ feedback-ui.slack.channel=#feedback
 # the Slack username to use for the feedback messages
 feedback-ui.slack.username=my-app-feedback
 ```
+
+License
+-------
+This project is licensed under [MIT license](http://opensource.org/licenses/MIT).
