@@ -3,7 +3,7 @@
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # feedback-ui
-A Spring Boot module that adds feedback functionality to a web user-interface.
+A Spring Boot module that adds feedback functionality to a web user-interface via a Javascript widget. Currently ```feedback-ui``` offers a Slack integration, but can be easily extended by implementing the ```SPI```.
 
 ## Getting started
 ```feedback-ui``` uses Spring's auto-configuration functionality. This means that you only have to add the Maven dependencies and configure a couple of properties. That's it!
