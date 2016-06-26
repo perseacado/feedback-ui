@@ -7,7 +7,7 @@ A Spring Boot module that adds feedback functionality to a web user-interface vi
 
 ## Getting started
 ```feedback-ui``` uses Spring's auto-configuration functionality. This means that you only have to add the Maven dependencies and configure a couple of properties. That's it!
-Please refer to the next sections to integrate ```feedback-ui``` into your aplication.
+Please refer to the next sections to integrate ```feedback-ui``` into your application.
 
 ## Maven
 ### Release
